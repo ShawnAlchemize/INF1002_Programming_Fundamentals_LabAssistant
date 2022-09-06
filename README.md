@@ -16,4 +16,7 @@ Depending on my mood and professor's permission, I might be able to upload the l
 If I missed any upload, feel free to contact me about it. Or if you have any questions regarding your own code, I'm here to assist.
 
 
+### Discussions
+Use the discussions tab to ask and discuss any questions!
+
 Good luck!
