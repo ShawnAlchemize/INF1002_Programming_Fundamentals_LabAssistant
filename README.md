@@ -1,5 +1,5 @@
 ## Hello and welcome to INF1002-Programming Fundamentals
-This is a repository created and maintained by Lab Assistant Shawn Yeo (Jie Kai). <br/>
+This is a repository created and maintained by Lab Assistant Shawn Y. (Jie Kai). <br/>
 Feel free to reach out to me at 2100771@sit.singaporetech.edu.sg 
 
 - Python programming taught by Prof. Daniel Wang (6 weeks)
